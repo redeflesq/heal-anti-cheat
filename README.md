@@ -1,12 +1,10 @@
 # HealAC — Anti-Cheat Plugin for CS 1.6 (AMXX)
 
-> 🕹 **A rarity from the old days.**  
+> **A rarity from the old days.**  
 Last real update: **2019** — the code was only cleaned and re-released, no modern development continued.
 
 **HealAC** is a lightweight anti-cheat system for Counter-Strike 1.6.  
 Tested on a live server for about a year — stable performance, almost no false detections (rarely on SpeedHack).
-
----
 
 ## Detection & Punishment
 
@@ -16,8 +14,6 @@ Tested on a live server for about a year — stable performance, almost no false
 | **FastKnife** | Kick |
 | **BunnyHop** | Kick **or** Jump Prevention |
 | **WallHack / ESP** | Visibility Prevention |
-
----
 
 ## CVAR Configuration
 
@@ -30,8 +26,6 @@ Tested on a live server for about a year — stable performance, almost no false
 
 > Lightweight and safe to use as an **additional anti-cheat layer**.  
 > Practically no performance impact.
-
----
 
 ## Changelog
 ### **0.3.5**
@@ -53,7 +47,6 @@ Tested on a live server for about a year — stable performance, almost no false
 
 ### **0.3.0 — Release**
 - Added **ESP & WallHack Shield** to block unfair visibility exploits  
-
 
 ## Final Notes
 
